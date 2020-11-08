@@ -1,6 +1,6 @@
 # To use .py modules in colab
 1. Run this Command in colab to clone repo :- **!git clone https://github.com/DarshanPatel0919/DL-Project-starGAN**
-2. Set system path uasing :- **sys.path.append('/content/DL-Project-starGAN')**
+2. Add the directory location to system path variables using :- **sys.path.append('/content/DL-Project-starGAN')**
 
 # To edit .py files within colab
 * You can use Ipython magic commands. Use command :- **%pycat code.py**
